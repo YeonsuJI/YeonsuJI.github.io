@@ -1,5 +1,5 @@
 # YeonsuJI.github.io
-# https://startbootstrap.com/theme/agency
+# 사용 테마 : https://startbootstrap.com/theme/agency
 
 ## 나의 스킬
 1. 자바스크립트
